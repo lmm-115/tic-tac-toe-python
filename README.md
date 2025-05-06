@@ -2,11 +2,11 @@
 Simple terminal-based Tic Tac Toe game in python
 
 This project was created to practice basic Python concepts such as:
-<> Conditional logic
-<> Loops
-<> Functions
-<> List and indexing
-<> Input and Output
+- Conditional logic<br>
+- Loops<br>
+- Functions<br>
+- List and indexing<br>
+- Input and Output<br>
 
 # how to play
 Clone the repository:
